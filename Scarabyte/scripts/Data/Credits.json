@@ -1,0 +1,21 @@
+{
+    "Departments": [
+        {
+            "DepartmentName": "Test Team",
+            "Sections": [
+                {
+                    "SectionName": "Developers",
+                    "SectionLines": [
+                        "Scarabyte"
+                },
+                {
+                    "SectionName": "Special Thanks",
+                    "SectionLines": [
+                        "Jacob_Mango",
+                        "Arkensor"
+                    ]
+                }
+            ]
+        }
+    ]
+}
